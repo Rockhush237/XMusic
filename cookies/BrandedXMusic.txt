@@ -1,6 +1,5 @@
 # Netscape HTTP Cookie File
 # This is a generated file! Do not edit.
-
 # domain  include_subdomains  path  secure  expiration_date  name  value
 .youtube.com	TRUE	/	TRUE	1756361207	__Secure-1PSIDCC	AKEyXzVF2wuYcFoGGjGMXcc_K1e599AuFoo825Yzxt1uzKHOzorooy2AGE0uHVS51YBU1lmK
 m.youtube.com	TRUE	/	TRUE	1727417196	OTZ	7708687_34_34__34_
